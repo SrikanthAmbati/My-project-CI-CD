@@ -1,1 +1,1 @@
-# My-project-CI-CD
+# My-project-CI/CD
